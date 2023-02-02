@@ -13,7 +13,6 @@ const App = (): JSX.Element => {
           <a href="call" className="call">
             Call
           </a>
-
           <a href="hang-up" className="hang active">
             Hang up
           </a>
