@@ -45,7 +45,6 @@
 - One of the 'Action' components takes the function to call
 - One of the 'Action' components takes the function to hung up
 
-
 ## KEYBOARD
 
 ### KEY
