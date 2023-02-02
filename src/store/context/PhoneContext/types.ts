@@ -1,7 +1,4 @@
-import { Dispatch } from "react";
-
 interface PhoneContextStructure {
-  phoneContext: string;
-  setPhoneContext: Dispatch<React.SetStateAction<string>>;
+  phoneNumber: string;
 }
 export default PhoneContextStructure;
