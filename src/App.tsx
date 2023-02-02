@@ -1,3 +1,5 @@
+import Display from "./components/Display/Display";
+
 import Keyboard from "./components/Keyboard/Keyboard";
 
 const App = (): JSX.Element => {
@@ -7,7 +9,7 @@ const App = (): JSX.Element => {
       <main className="phone">
         <Keyboard />
         <div className="actions">
-          <span className="number">667359961</span>
+          <Display />
           <a href="call" className="call">
             Call
           </a>
